@@ -9,5 +9,6 @@ class MainActivity : AppCompatActivity() {
         setContentView(R.layout.activity_main)
         val c = 111
         val z = "zzz"
+        val u = "uuu"
     }
 }
