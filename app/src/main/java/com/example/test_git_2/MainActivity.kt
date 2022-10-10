@@ -8,5 +8,8 @@ class MainActivity : AppCompatActivity() {
         super.onCreate(savedInstanceState)
         setContentView(R.layout.activity_main)
         val c = 111
+        val z = "zzz"
+        val x = "xxx"
+        val v = "vvv"
     }
 }
