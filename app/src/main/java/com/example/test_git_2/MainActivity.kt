@@ -8,5 +8,8 @@ class MainActivity : AppCompatActivity() {
         super.onCreate(savedInstanceState)
         setContentView(R.layout.activity_main)
         val d = 111
+        val a = 000
+        val b = 222
+        val c = 333
     }
 }
