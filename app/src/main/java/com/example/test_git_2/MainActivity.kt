@@ -10,5 +10,6 @@ class MainActivity : AppCompatActivity() {
         val c = 111
         val z = "zzz"
         val u = "uuu"
+        val i = "iii"
     }
 }
